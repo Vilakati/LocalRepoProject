@@ -1,1 +1,1 @@
-"Hello, this is my first Git-tracked file!" 
+"Hello, Git and GitHub!" 
